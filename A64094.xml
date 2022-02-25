@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to all people, nations, kindreds, tongues and languages, to repent and turn to the Lord God, before the day of their visitation past over, and no place of repentence be found for them</title>
+            <author>Tyso, John, d. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64094</idno>
+            <idno type="STC">Wing T3596</idno>
+            <idno type="STC">ESTC R214114</idno>
+            <idno type="EEBO-CITATION">99826330</idno>
+            <idno type="PROQUEST">99826330</idno>
+            <idno type="VID">30731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1801:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to all people, nations, kindreds, tongues and languages, to repent and turn to the Lord God, before the day of their visitation past over, and no place of repentence be found for them</title>
+                  <author>Tyso, John, d. 1700.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>in the year, 1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Tyso, who acknowledges authorship on page seven.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Conversion --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="exhortation_for_repentance">
+            <pb facs="tcp:30731:1"/>
+            <pb facs="tcp:30731:1" rendition="simple:additions"/>
+            <head>A <hi>WARNING</hi> to all <hi>People, Nations, Kindreds, Tongues</hi> and <hi>Languages,</hi> to Repent and Turn to the <hi>Lord God,</hi> before the Day of their Viſitation paſs over, and no place of Repentance be found for them.</head>
+            <p>ALL People are gone out of the way, they are gone a<g ref="char:EOLhyphen"/>ſtray, drove out from God into the earth, and ſo live without God in the World, in the luſt and va<g ref="char:EOLhyphen"/>nities of their minds, devouring every green thing, and ſpending it upon their Luſts, being captivated in Chains of Darkneſs, and knows not when good comes, but takes pleaſure in that which will be their own Deſtruction, and will have none of thy wayes (O God) but chuſe out wayes to them<g ref="char:EOLhyphen"/>ſelves after their own imaginations; <hi>Ariſe, ariſe O God for thy own Name ſake; Avenge, avenge thy ſelf on thy Adverſaries; O God make known thy everlaſting Name in the Earth, and let the People know that thou art God, and that there is none beſides thee.</hi>
+            </p>
+            <p>How are all People degenerated and faln from God, even like a degenerate Plant, a Plant of a ſtrange Vine; yea, wo<g ref="char:EOLhyphen"/>fully are they faln from God into the imaginations of their own hearts; even as in the dayes of old, ſo is it now, <hi>The Prieſts preach for hire, the Prophets divine for money, and the people love to have it ſo;</hi> yea the Shepherds, the treacherous Dealers, have daubed with untempered Morter, crying, <hi>Peace, peace,</hi> to whom no peace is; but to them all both Prieſts and People, Wo, Wo, Miſery, Calamity, and Deſtruction, Overturning, Overturn<g ref="char:EOLhyphen"/>ing, Heaps upon Heaps, Confuſion of Face, Anguiſh and Per<g ref="char:EOLhyphen"/>plexity, until he come to <hi>Reign whoſe right it is;</hi> who ſaith, <hi>My Kingdom is not of this world,</hi> or elſe my Servants would fight; but neither with Sword nor Spear, nay, not with carnal Weapon, but through ſuffering the Lamb ſhall get the Victo<g ref="char:EOLhyphen"/>ry: For the true Prophets whom the Lord God hath raiſed up, to bear teſtimony unto his Everlaſting Name, them ye perſe<g ref="char:EOLhyphen"/>cute
+<pb n="2" facs="tcp:30731:2" rendition="simple:additions"/>and make a prey upon, as in Generations paſt, ſo is it now: <hi>But the Lord will eaſe him of his Adverſaries, and avenge himſelf on his Enemies, yea on a hppocritical gainſaying People, who honour him with their lips, but their hearts are far from him.</hi>
+            </p>
+            <p>For, <hi>Even as it was in the dayes of</hi> Noah, <hi>ſo ſhall the coming of the Son of man be;</hi> For all fleſh hath corrupted his way upon the earth, and the Lord God is wroth with man, for their A<g ref="char:EOLhyphen"/>bominations are great before him; for even as they luſted in the Wilderneſs in the dayes of old, ſo are men and women given up to fulfil the luſts and abominations of their own hearts in rebelling againſt the Lord God, even to their own hurt; <hi>For the Lord will not alwayes ſtrive with man,</hi> but ac<g ref="char:EOLhyphen"/>count ſhall he give, and a recompence ſhall he have at the hand of the Lord God; for even as they luſted, and periſhed with the meat in their mouths, even ſo will the Lord God plague the rebellious gainſaying Generation of evil-doers; for his Fury burns as fire, and his indignation waxeth hot, and the Fuel for the fire is great, and the breath of the Lord like a River of Brimſtone ſhall kindle it: Yea <hi>Babylon</hi> ſhall fall, and the Merchants thereof ſhall lament and bewail themſelves, and cry, <hi>Alas, alas, that great City, wherein many were made rich, for in one hour her Torment is come,</hi> (yea and coming.)</p>
+            <p>Therefore <hi>Wo, Wo</hi> to the <hi>Merchants</hi> of <hi>Babylon,</hi> who make Merchandiſe of Mens Souls by Sea and Land; yea upon the waters on which the Whore ſits (which <hi>John</hi> ſaw, Rev. 18.13.17.15.) were <hi>Peoples, Multitudes, Nations,</hi> and <hi>Tongues,</hi> for theſe are the VVaters they trade on, and theſe are the Flocks on whom the Shepherds make their prey; but the Lord hath determined an utter Conſumption for thoſe things, yea their high places ſhall be laid waſte, and their Altars broken down, and their ſinging turned into howling, yea their joy into mourning; for they ſhall cry to the <hi>Hills and to the Mountains to fall upon them, and to the Rocks to hide them from the wroth of the Lamb, but there ſhall be none to deliver; for although they climb up to heaven, thence will I fetch them down; though they dig into hell, thence ſhall my hand take them; and though they be hid from my ſight in the bottom of the Sea, thence will I command the Serpent, and he ſhall bite them, ſaith the Lord.</hi>
+            </p>
+            <p>And ſo conſider theſe things all ye that forget God, for <hi>To<g ref="char:EOLhyphen"/>phet
+<pb n="3" facs="tcp:30731:2" rendition="simple:additions"/>is prepared of old;</hi> and all ye <hi>Rulers, Judges</hi> and <hi>Governours</hi> of the <hi>People,</hi> do <hi>Juſtice,</hi> love <hi>mercy,</hi> and <hi>walk humbly before the Lord God;</hi> for Cruelty, Tyranny and Oppreſſion is amongſt you, and ye ſhall not eſcape for theſe things.</p>
+            <p>Therefore howl, howl ye Shepherds, and lament ye their Flock, for the day of the Lord is at hand, which will leave nei<g ref="char:EOLhyphen"/>ther root nor branch; for the fire of his Jealouſie ſhall burn and devour before him, and it ſhall be tempeſtuous round a<g ref="char:EOLhyphen"/>bout him, and who ſhall be able to ſtand in his preſence? for a ſpeedy work will the Lord make in the earth, with righteous judgment will he plead with the Inhabitants thereof: So all People bow and tremble before the Lord God, for terrible will his preſence be to all the workers of iniquity.</p>
+            <p>But good is the Lord unto the ſeed of <hi>Abraham,</hi> and his mercy endureth for ever, from everlaſting to everlaſting; yea let the ſeed of <hi>Jacob</hi> ſay, <hi>good is the Lord,</hi> and exceeding great is his <hi>loving kindneſs unto all them that are of an upright heart;</hi> Holy, Righteous, and full of Compaſſion is the Lord our God, whoſe Name is worthy to be praiſed; So praiſe ye the Lord, praiſe him O all ye his Saints, Magnifie and extol his holy Name; yea, let all that know the Lord praiſe him, for his mercy endureth for ever.</p>
+            <p>Come all ye that are <hi>weary</hi> and <hi>heavy laden,</hi> and take his <hi>yoak upon you,</hi> which is eaſie, and his <hi>burthen</hi> which is light, and be ye <hi>followers</hi> of the <hi>Lamb,</hi> who is <hi>meek</hi> and <hi>low</hi> in <hi>heart,</hi> and teacheth all his followers ſo to be, in meekneſs and of a Lamb like ſpirit, <hi>gentle</hi> and <hi>eaſie to be intreated,</hi> full of <hi>compeſſion</hi> and <hi>bowels of pity</hi> towards all that <hi>hunger and thirſt after Righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> who hath promiſed that all ſuch ſhall be <hi>filled.</hi>
+            </p>
+            <p>
+               <hi>O come let us ſing unto the Lord a new ſong, let our mouths be full of his praiſes, let us ſing unto him upon the well-ſtringed Inſtrument, yea let us ſing praiſes, ſing praiſes unto his holy Name; for he is our God, and we are his People, even the ſheep of his paſture: Whom have we in heaven beſides thee, or on earth in compariſon of thee; Everlaſting honour and praiſe be given unto thee, for thou art wor<g ref="char:EOLhyphen"/>thy O God, thou art worthy, for all is thine, yea the Cattle on a thou<g ref="char:EOLhyphen"/>ſand hills: what ſhall we prepare for thee, Sacrifices and burnt Of<g ref="char:EOLhyphen"/>ferings thou would not, but a broken and contrite heart, O God thou wilt not deſpiſe.</hi>
+            </p>
+            <pb n="4" facs="tcp:30731:3" rendition="simple:additions"/>
+            <p> O all ye Nations, fear the Lord, yea let the fear of our God be before your eyes, ſtand in awe, and ſin not, leſt he <hi>rebuke you in his fore diſpleaſure,</hi> and <hi>tear you in pieces, when there is none to deliver;</hi> for our God is the living God, to whom all the Gods of the Heathen ſhall bow and tremble; when he utters his Voice the Hills ſhall melt, and the <hi>ſtrong Oaks</hi> ſhall bow, and the <hi>tall Cedars</hi> bend before him, for <hi>Majeſty, Dominion,</hi> and <hi>Authority</hi> is with him, who is <hi>King of Kings,</hi> and <hi>Lord of Lords,</hi> whoſe <hi>Dominion</hi> is an everlaſting <hi>Dominion,</hi> and of whoſe <hi>Glory there is no end;</hi> yea, <hi>from Everlaſting to Everlaſting is his Name.</hi>
+            </p>
+            <p>How do the People <hi>imagine vain things,</hi> and <hi>the Kings of the Earth take Counſel together againſt thine Anointed,</hi> even againſt thy choſen People <hi>Iſrael,</hi> but the Lord will ſcatter them, and in the imaginations of their own hearts ſhall they be confoun<g ref="char:EOLhyphen"/>ded; for the Lord will ariſe for his own People, and ſhame ſhall cover the face of their Enemies; for a work hath the Lord begun in the Earth, and in Righteouſneſs it ſhall be ac<g ref="char:EOLhyphen"/>compliſhed; but <hi>wo to the workers of Iniquity,</hi> for it ſhall go ill with them.</p>
+            <p>Therefore ſlight not the day of <hi>your Viſitation,</hi> O all ye <hi>Kindreds, Tongues, Languages,</hi> and <hi>People,</hi> but hearken to the call of God, who calls for <hi>Purity</hi> and <hi>Holineſs, Singleneſs</hi> and <hi>Uprightneſs</hi> of heart towards God and all men; whoſe call is near every one of you, even in your hearts and mouths, to o<g ref="char:EOLhyphen"/>bey it and do it (as Scripture ſaith, <hi>Rom.</hi> 10.6, 7, 8.) and ſo you need not ſay, who ſhall aſcend to fetch Chriſt down? or, who ſhall go beyond the Sea to fetch us a Teacher? for the Lord is fulfilling his Promiſe which he made of old, That <hi>he would write his Laws in our hearts,</hi> and all <hi>ſhould be taught of him;</hi> and every man ſhould not ſay to his <hi>Neighbour, know the Lord, for they ſhall all know him, from the greateſt to the leaſt, Jer.</hi> 31.33, 34.</p>
+            <p>So all ye <hi>People, Kindreds, Tongues,</hi> and <hi>Languages,</hi> turn from your dumb Idol-Shepherds, who have not fed the Flock, but themſelves; who have been greedy after the Prey, and ſtood not in my Counſel (ſaith the Lord) for if they had ſtood in my Counſel, they would have turned my People from their ſins.</p>
+            <pb n="5" facs="tcp:30731:3" rendition="simple:additions"/>
+            <p> And all ye People, who live in the <hi>Types, Figures,</hi> and <hi>Sha<g ref="char:EOLhyphen"/>dows,</hi> ariſe (hence) this is not <hi>the Reſt;</hi> nay, this is not the Subſtance, but a Shadow of it, which <hi>paſſeth away, and is no more ſeen,</hi> but the Subſtance <hi>endures for ever,</hi> which is Chriſt, in the Male and in the Female, which ends the <hi>Types, Figures,</hi> and <hi>Shadows</hi> (which is the <hi>firſt Covenant</hi>) and ſo brings into the <hi>ſe<g ref="char:EOLhyphen"/>cond,</hi> which is everlaſting, and <hi>fades not away,</hi> but <hi>endures for ever:</hi> And ſo judge not, nor ſtrive not one with another about theſe things, as <hi>Meats, Drinks,</hi> and <hi>Dayes, Col.</hi> 2.16. for the Kingdom of God ſtands not in theſe things, but <hi>in Joy and Peace in the Holy Ghoſt;</hi> and ſo come to Chriſt the Subſtance, that a hiding place you may know, when the ſtorm ariſeth, which will ſweep away the refuge of <hi>Lyes,</hi> and all that which ſtands not in the Power of God (which is <hi>Chriſt in you, the hope of Glory</hi>) and ſo you come to witneſs what the Apoſtle ſaid, That <hi>the end of all things is at hand;</hi> who for a time lived in thoſe things which were a Shadow of the things to come.</p>
+            <p>Where <hi>if ye be dead with Chriſt from the rudiments of the World, why as though living in the World, are ye ſubject to Ordi<g ref="char:EOLhyphen"/>nances? Col.</hi> 2.20, 21, 22. Touch not, taſte not, handle not, which all are to periſh with the uſing; but mind the Head, from whence the whole Body is nouriſhed and knit together, with joynts and bands, in unity and fellowſhip; who ſit toge<g ref="char:EOLhyphen"/>ther in <hi>Heavenly places,</hi> and feel their <hi>ſtrength renewed,</hi> day by day, from the Head (which is Chriſt) not from any viſible thing, but through <hi>his Blood are we waſhed and cleanſed,</hi> and with <hi>his Baptiſm are we Baptized,</hi> which is with <hi>Fire</hi> and <hi>the Holy Ghoſt;</hi> ſo <hi>Bone of his Bone,</hi> and <hi>Fleſh of his Fleſh,</hi> is his Body (which is the Church) of whom Chriſt is Head; who are <hi>a Spiritual Houſe of living ſtones, built up unto God; not an earthly Tabernacle, made with mens hands, but Spiritual in the Heavens; whoſe Praiſe is of God, and not of man:</hi> And this is above all earthly things, which ſtands in time, and in time hath its end; And ſo all People, ye are to come off from thoſe things which are below, which periſh with the uſing, to that which is Eter<g ref="char:EOLhyphen"/>nal, and <hi>fades not away,</hi> but <hi>endures for ever;</hi> which is the Seed of the Kingdom, which the <hi>Lord of the Harvest will gather in<g ref="char:EOLhyphen"/>to the Gardner;</hi> but the Chaff and the Husk, which the Seed
+<pb n="6" facs="tcp:30731:4" rendition="simple:additions"/>lay in for a time, will he <hi>burn with unquenchable Fire:</hi> So all People, turn from your dumb Idols, and ſerve the living God, who is come near to Judgement, who will purifie the Sons of <hi>Levi, even as Gold is purified; for the Houſe of</hi> Jacob <hi>ſhall be a Flame, and the Houſe of</hi> Eſau <hi>as Stubble; for what is the Chaff to the Wheat?</hi>
+            </p>
+            <p>But wo is me, wo is me, the Heritage of the Lord lyes waſte like a Wilderneſs, having no Shepherd, but even as Sheep gone aſtray, wandring from Mountain to Hill, <hi>ſeeking reſt, but find none;</hi> return, return, O ye back-ſliding People, turn in your minds to the Lord, and hearken to his Voice, that you may <hi>find reſt for your Souls,</hi> and hunt no more, loe here, and loe there; for behold, your Teacher is <hi>within you,</hi> which tells you <hi>Lying</hi> is a ſin, and <hi>Swearing</hi> a ſin, <hi>Drunkenneſs, Covetouſneſs, Envy, Wrath, Hatred, Malice, Mocking, Scoffing,</hi> and <hi>idle Speak<g ref="char:EOLhyphen"/>ing,</hi> are ſins; and as you believe in it, and are obedient to it, ſtrength from the Lord ſhall you receive in it, over the Devil, and all the unfruitful works of darkneſs; for this hath the Lord placed in you, which goes along with you, and beholds your doings, when no eye ſees you, nor no man can accuſe you; this will reprove you, and ſet your ſins in order before you; but as you believe in it, and obey it, it will lead you out of them, up to God, from <hi>whence ye are fallen;</hi> for it will be as a <hi>Lanthorn to your feet, and a light to your paths;</hi> yea, if you turn to the right hand, or to the left, it will be as a voice behind you, ſaying, <hi>This is the Way, walk in it;</hi> yea, an everlaſting Covenant of Peace ſhall it be unto all that believe in it, and are obedient to it; for it is He, which the Lord hath promiſed ſhould be as a <hi>Nail faſtned in a ſure place, Iſa.</hi> 22.23. even the Anointing which will <hi>teach you all things,</hi> which is <hi>Truth, and is no Lye,</hi> 1 <hi>John</hi> 2.27. yea, the ſame <hi>to day, yeſterday, and for ever;</hi> a Standard which the Lord our God hath lifted up; yea, an Enſign for the People, a light to enlighten the <hi>Gentiles,</hi> and the glory of his People <hi>Iſrael,</hi> unto whom the brightneſs of his riſing hath appeared, and unto whom the gathering of the People ſhall be; and unto it ſhall the Kings of the Earth bring in their Treaſure; for at his feet ſhall all Crowns be laid, and all Tongues ſhall confeſs unto his Glory; for it is he whom
+<pb n="7" facs="tcp:30731:4" rendition="simple:additions"/>the Father hath exalted, to be both Lord and King, and given him a Name above every Name, that at the Name of Jeſus every knee ſhould bow, of things in Heaven, and things in Earth, yea there is not another beſides him; it is he alone that ſhall be the Ruler of his People, <hi>a Light to enlighten the Gentiles, and the glory of his People Iſrael,</hi> unto whom all the Gods of the Heathen ſhall bow and tremble.</p>
+            <p>And all ye rebellious and ſtiff-necked People, that have been gainſaying and deſpiſing this Prophet which the Lord our God hath raiſed up; and all you that have been perſecuting of them, in whom he is riſen, Repent and return from the evil of your doings, leſt the Lord cut you off in your Iniquities, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo you die in your ſins, and there be no place of Repentance, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound for you, but ſhut out from the preſence of the Lord God, and of his holy Angels, for ever and for evermore; unto whom ſhall all his Saints and holy Angels for ever ſing <hi>Hallelujah, Honour</hi> and <hi>Praiſe</hi> be given unto the Lord our King.</p>
+            <closer>
+               <dateline>Given forth <date>the 9<hi>th</hi> day of the 1<hi>ſt</hi> Month, 1662.</date> from the Priſon called the <hi>Hole,</hi> in <hi>Martins Le grand, London;</hi>
+               </dateline> where I bear my Teſtimony through Suffering againſt Wickedneſs; who am known to the World by the Name <hi>John Tyſo,</hi> but hath received a new Name that none can read but the Seed of the Woman which bruiſeth the Serpents head.</closer>
+            <epigraph>
+               <q>My People ſhall be a willing People in the day of my power, ſaith the Lord.</q>
+            </epigraph>
+         </div>
+         <div type="postscript">
+            <p>
+               <hi>THe cauſe of theſe Lines, is not that I ſeek whereof to glory, but the Lord be glorified over all, and his living Truth exalted above all; neither on this wiſe do I open my mouth as to accuſe any man out of envy or hatred towards his perſon; but the deſire of my ſoul is, that all men might turn from the evil of their doings, and that the Lord might have mercy on their ſouls and bodies, and that they might come to the knowledge of the truth and be ſaved; for God is merciful and deſireth not that man ſhould die, but rather that he ſhould repent and return to him (from whom he is faln) and live to ſerve his Maker, for which end he was created, and not to ſerve his own luſts in oppreſſing and de<g ref="char:EOLhyphen"/>ſtroying the Creation of God thereupon, but to live in Gods fear in meek<g ref="char:EOLhyphen"/>neſs, and to love his neighbour as himſelf; then Equity and Juſtice would flow as a mighty ſtream, and Righteouſneſs run down our ſtreets
+<pb n="8" facs="tcp:30731:5" rendition="simple:additions"/>like a river, and God would bleſs our encreaſe, and great ſhould be our ſtore; but where the contrary is brought forth, as Pride, Covetouſneſs, Drunkenneſs, and all manner of Wickedneſs, how can people expect but that the hand of God ſhould be againſt ſuch things? Although his pa<g ref="char:EOLhyphen"/>tience and long-ſuffering hath waited on man long, yea whoſe loving kindneſs hath been great towards me from a Child, who hath many a time raiſed from his own Seed in me breathings and hungrings after him, and deſires to know him of whom I was ignorant; but knowing not where to ſtay my mind, the enemy ſoon got advantage, and drew out my mind into vanity, and ſo I heeded not that tender Principle which the Lord had placed in me, which would have drawn me towards himſelf, and giv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me a good <g ref="char:V">Ʋ</g>nderſtanding to have walked before him in fear, and wi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n upright heart; ſo evilly did I reward the Lord for all his mercies, but ſtill the Lord continued his loving kindneſs towards me, in that he left himſelf not without a witneſs in me; but when I was alone in ſecret, and going by the way, yea and laying on my bed, ſhould I feel the ſecret hand of the Lord reproving me, and ſetting my ſins in order before me, and ſmiting the hardneſs of my heart, and cauſing a tender<g ref="char:EOLhyphen"/>neſs to ariſe from his own ſeed in me, which now makes me to cry, Oh the highth and depth of the love of God towards mankind; for now I know the Lord is no reſpecter of perſons, but his love is towards all the Sons and Daughters of men; and in whom the Lord hath opened his living Fountain, and cauſed the freſh ſprings of Life to ſpring up, they cannot be ſilent, but even their bowels earn towards others, yea, with ſighs and groans towards the whole Creation, that the Day might dawn, and that darkneſs might fly away, and the ſinging of Birds might come, and the yelling noyſes of the wild Beaſts might ceaſe, &amp; that they might return again into their Dens from whence they came: So the Lord our God open the hearts of his People, and enlighten their underſtand<g ref="char:EOLhyphen"/>ing, that his living Truth they may come to know, which hath been hid from their eyes in this cloudy and dark day, and night of Apoſtacy, which hath been over the face of all People, ſince the dayes of the Apo<g ref="char:EOLhyphen"/>ſtles; but the night is far ſpent, and the day is dawning, and the time is at hand, that darkneſs ſhall fly away, and the light ſhall ſhine forth of obſcurity; for the light of the Moon, ſhall be as the light of the Sun, and the light of the Sun as ten dayes, and Glory, Honour and Praiſe ſhall be given unto the Lord, who is God bleſſed over all, for ever and for ever, Amen.</hi>
+            </p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, in the year, 1662.</p>
+            <pb facs="tcp:30731:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
